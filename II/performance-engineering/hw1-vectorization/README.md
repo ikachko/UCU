@@ -1,2 +1,2 @@
 ## Speed results
-[]("img/results.md")
+[]("./img/results.md")
